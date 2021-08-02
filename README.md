@@ -5,7 +5,7 @@ Resources for the CDO training, Summer 2021.
 
 Here are a few resources to get you started.  
 
-##Challenge One
+## Challenge One
 
 There has been a lot of discussions in the news lately that cite some pretty large figures. Whether we're talking about an infrastructure plan [https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-president-biden-announces-support-for-the-bipartisan-infrastructure-framework/]($1.2 trillion), the cost of the war in Afghanistan [https://watson.brown.edu/costsofwar/figures/2021/human-and-budgetary-costs-date-us-war-afghanistan-2001-2021]($2.261 trillion), or legislative actions related to COVID [https://www.covidmoneytracker.org/]($5.9 trillion), these numbers are impossibly difficult to fathom given their sheer size.  
 
@@ -21,7 +21,7 @@ Next, view this data visualization (try to make it all the way through if you ca
 
 Does the visualization change your understanding of wealth and how you think about income disparity?  We'll discuss your observations during our class. 
 
-Challenge Two
+## Challenge Two
 
 Another area we'll talk about is receiving feedback on our own data visualizations.  It's an under-appreciated mechanism to learn how effective we are at using data to tell stories.  We do however see direct user feedback in the news all the time when data are used to explain a point or tell a story that maybe isn't so well supported by the data itself.  As an example, [https://www.bloomberg.com/opinion/articles/2019-03-28/living-on-500-000-a-year-in-income-can-seem-hard](see this article from Bloomberg). Review the associated infographics referenced, which can be found linked in the article.  Next, see this data story depicting the [https://www.vox.com/2016/5/23/11704246/wealth-inequality-cartoon](changing economic classes in the United States).  And, as you're reading the articles notice how the design choices are used to support the intended narrative.  Some use pictures of people, others use particular colors that convey yet more information, or sometimes emotions.  Different visualization types (like the Alluvial Diagram for the $100K budget) show movement and flow.  All of these elements combine to influence us as readers even more, and are sometimes designed to influence our interpretation of the data and the story.   Pay attention to how you feel as you review the data visualizations  - does a graphic make you sad?  Angry?  Interested to learn more?  Pay attention to those elements that are leading you to feel or respond a certain way and see if you can figure out why. 
 
