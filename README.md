@@ -1,15 +1,15 @@
 # CMU-CDO
 Resources for the CDO training, Summer 2021. 
 
-# Pre-reading list
+# Pre-reading list for Module 11
 
 Here are a few resources to get you started.  
 
 ## Challenge One
 
-There has been a lot of discussions in the news lately that cite some pretty large figures. Whether we're talking about an infrastructure plan [https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-president-biden-announces-support-for-the-bipartisan-infrastructure-framework/]($1.2 trillion), the cost of the war in Afghanistan [https://watson.brown.edu/costsofwar/figures/2021/human-and-budgetary-costs-date-us-war-afghanistan-2001-2021]($2.261 trillion), or legislative actions related to COVID [https://www.covidmoneytracker.org/]($5.9 trillion), these numbers are impossibly difficult to fathom given their sheer size.  
+There has been a lot of discussions in the news lately that cite some pretty large figures. Whether we're talking about an infrastructure plan [https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-president-biden-announces-support-for-the-bipartisan-infrastructure-framework/]($1.2 trillion), the cost of the war in Afghanistan [https://watson.brown.edu/costsofwar/figures/2021/human-and-budgetary-costs-date-us-war-afghanistan-2001-2021]($2.261 trillion), or legislative actions related to COVID [https://www.covidmoneytracker.org/]($5.9 trillion), these numbers can seem impossibly difficult to fathom given their sheer size.  
 
-What do you picture in your mind when you think of a thousand dollars?  A million?  A billion?  A trillion dollars?  Visualizing data can help us add context and comparison while better understanding the differences between the sheer size of these numbers by comparing them to things we might understand a bit better.  
+For example - what you picture in your mind when you think of a thousand dollars?  A million?  A billion?  A trillion dollars?  Visualizing data can help us add context and comparison while better understanding the differences between the sheer size of these numbers by comparing them to things we might understand a bit better.  
 
 In preparation for our upcoming module, read this article: 
 
